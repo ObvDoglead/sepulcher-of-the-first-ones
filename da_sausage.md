@@ -3,8 +3,8 @@
 ## Video
 
 [HC Northern Sky](https://www.twitch.tv/videos/1261896827?t=02h13m52s)
+
 [Mythic Northern Sky](https://www.twitch.tv/videos/1261897895?t=00h53m24s)
-[]()
 
 ## Phases
 
