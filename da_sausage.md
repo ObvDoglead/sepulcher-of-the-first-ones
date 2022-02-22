@@ -52,10 +52,10 @@
 **0:40** Add\
 **1:15** Dominion #1\
 **1:40** Add\
-**1:45** Halo + Frontal! Bait first + roar + run\
+**1:45** Halo + Frontal\
 **2:15** Add\
 **2:50** Add\
-**3:00** Halo + Frontal! Bait first + roar + run\
+**3:00** Halo + Frontal\
 **3:30** Dominion #2\
 **3:45** Add\
 **3:50** Halo + Frontal\
