@@ -66,4 +66,4 @@
 **6:15** Halo\
 **6:40** Add\
 **7:15** Add\
-**7:30** Halo + Enrage\
+**7:30** Halo + Enrage
