@@ -33,7 +33,7 @@
 - Player targeted -> Bait + Run (häufig mit Halo)
 - Bei großen Entfernungen Platz zwischenden eizelnen Beams
 
-![Lücke in Beam](/images/oblitArc.png)
+![Lücke in Beam](/images/oblitArc.gif)
 
 ### Disintegration Halo
 
