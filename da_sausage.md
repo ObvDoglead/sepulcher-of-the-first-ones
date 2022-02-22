@@ -12,19 +12,19 @@
 
 ### Phase 1
 
-![Phase1](/images/dasaugne/dasaugnep1.png)
+![Phase1](/images/dausegne/dausegnep1.png)
 
 ### Phase 2
 
-![Phase2](/images/dasaugne/dasaugnep2.png)
+![Phase2](/images/dausegne/dausegnep2.png)
 
 ### Phase 3
 
-![Phase3](/images/dasaugne/dasaugnep3.png)
+![Phase3](/images/dausegne/dausegnep3.png)
 
 ### Phase 4
 
-![Phase4](/images/dasaugne/dasaugnep4.png)
+![Phase4](/images/dausegne/dausegnep4.png)
 
 ## Optional Information
 
@@ -33,7 +33,7 @@
 - Player targeted -> Bait + Run (häufig mit Halo)
 - Bei großen Entfernungen Platz zwischenden eizelnen Beams
 
-![Lücke in Beam](/images/dasaugne/oblitArc.gif)
+![Lücke in Beam](/images/dausegne/oblitArc.gif)
 
 ### Disintegration Halo
 
@@ -42,4 +42,4 @@
 - Ab drei aktiven Reservoirs: Halo kommt immer ein Resevoir (90°) weiter, nie von gegenüber (180°)
 - Erste immer random
 
-![Blaue Rune](/images/dasaugne/disintHalo.png)
+![Blaue Rune](/images/dausegne/blueRunes.gif)
