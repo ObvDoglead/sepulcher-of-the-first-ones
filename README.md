@@ -1,6 +1,6 @@
-# Sepulcher of the first ones
+# Sepulcher of the First Ones
 
-## Bosse
+## Boss-Tactics
 
 - Vigilant Guardian
 - [Skolex](skolex.md)
