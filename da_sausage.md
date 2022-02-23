@@ -6,7 +6,7 @@
 
 [Mythic Northern Sky](https://www.twitch.tv/videos/1261897895?t=00h53m24s)
 
-## Phases
+## Tactics
 
 [Raidplan All Phases](https://raidplan.io/plan/jXtxPTe8V-ov4uy8)
 
