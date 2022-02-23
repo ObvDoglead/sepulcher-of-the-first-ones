@@ -15,17 +15,17 @@
 
 - Bestimmte Ring-Combos muss der Tank den Raid mit der Tankmechanic durch das Portal ziehen
 
-### Mythic nach zweiten Adds\
+### Mythic nach zweiten Adds
 ![P2](/images/artificer/mythic2ndAddGrp.gif)
 
 
-### Alle Schwierigkeiten P3\
+### Alle Schwierigkeiten P3
 
-![P3](/images/artificer/tankGripP3.gif)\
+![P3](/images/artificer/tankGripP3.gif)
 
-### Alle Schwierigkeiten P4\
+### Alle Schwierigkeiten P4
 
-![P4](/images/artificer/tankGripP4.gif)\
+![P4](/images/artificer/tankGripP4.gif)
 
 ## Optional Info
 
