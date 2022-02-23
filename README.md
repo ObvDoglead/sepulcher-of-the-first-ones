@@ -5,7 +5,7 @@
 - Vigilant Guardian
 - [Skolex](skolex.md)
 - [Dausegne](da_sausage.md)
-- Artificer Xy'mox
+- [Artificer Xy'mox](artificer.md)
 - Prototype Pantheon
 - Lihuvim
 - Halondrus
