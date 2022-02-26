@@ -8,7 +8,7 @@
 - [Artificer Xy'mox](artificer.md)
 - [Prototype Pantheon](pantheon.md)
 - Lihuvim
-- Halondrus
+- [Halondrus] (halondrus.md)
 - Anduin
 - Lords of Dread
 - Rygelon
