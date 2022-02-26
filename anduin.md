@@ -9,7 +9,7 @@
 
 ### Good to know
 
-- Wicked Star ist dodgebar, auch wenn man target ist.
+- Wicked Star ist dodgebar, auch wenn man target ist, sonst pacified ab HC
 
 ### Phase 1 + 2
 
@@ -22,11 +22,12 @@
 - Gleiches Mark -> Boom
 - Neutrale Spieler -> No Boom
 
-### Intermission 1 (~2:40)
+### Intermission 1 + 2
 
-- **BL and Blast Lich King**
+- **BL and Blast Lich King(~2:40)**
 - Lich King spawnt immer im Westen
 - Mass-Grip kleine Adds into Stun Chain
+- Monstrous Soul (Abomination) Prio Target, sobald sie castet
 
 ### Phase 2
 
