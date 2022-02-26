@@ -9,7 +9,7 @@
 - [Prototype Pantheon](pantheon.md)
 - Lihuvim
 - [Halondrus](halondrus.md)
-- Anduin
+- [Anduin](anduin.md)
 - Lords of Dread
 - Rygelon
 - The Jailer
