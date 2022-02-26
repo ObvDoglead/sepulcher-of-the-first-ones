@@ -1,5 +1,7 @@
 # Sepulcher of the First Ones
 
+> **HINWEIS:** Die ersten Bosse sind schon Richtung Mythic vorbereitet, sofern möglich.
+
 ## Boss-Tactics
 
 - [Vigilant Guardian](guardian.md)
@@ -16,3 +18,4 @@
 
 ## Weakaura-Packs
 
+> Coming soon
