@@ -2,7 +2,7 @@
 
 ## Video
 
-[Normal Kill Northern Sky](https://www.twitch.tv/videos/1273585898?t=02h33m28s)
+[Normal Kill Northern Sky](https://www.twitch.tv/videos/1273585898?t=02h33m28s)\
 [HC Testing - Kinda Whack]()
 
 ## Tactics
