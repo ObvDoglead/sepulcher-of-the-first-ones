@@ -5,3 +5,6 @@
 
 [Ready Check Pull](https://youtu.be/MA--dKXYxIQ)
 
+## Tactics
+
+- Release abwarten für aktuelle Footage
