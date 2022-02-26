@@ -6,7 +6,7 @@
 - [Skolex](skolex.md)
 - [Dausegne](da_sausage.md)
 - [Artificer Xy'mox](artificer.md)
-- Prototype Pantheon
+- [Prototype Pantheon](pantheon.md)
 - Lihuvim
 - Halondrus
 - Anduin
