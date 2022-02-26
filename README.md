@@ -9,7 +9,7 @@
 - [Dausegne](da_sausage.md)
 - [Artificer Xy'mox](artificer.md)
 - [Prototype Pantheon](pantheon.md)
-- Lihuvim
+- [Lihuvim](lihuvim.md)
 - [Halondrus](halondrus.md)
 - [Anduin](anduin.md)
 - Lords of Dread
