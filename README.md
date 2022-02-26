@@ -2,7 +2,7 @@
 
 ## Boss-Tactics
 
-- Vigilant Guardian
+- [Vigilant Guardian](guardian.md)
 - [Skolex](skolex.md)
 - [Dausegne](da_sausage.md)
 - [Artificer Xy'mox](artificer.md)
