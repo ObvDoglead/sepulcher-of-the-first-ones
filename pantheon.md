@@ -15,6 +15,8 @@
 - Phase 3 - 2 Minutes into Phase: Necro-Ritual + Kyrian-Wings
     -> Big Dam, DRs + Aura Mastery + Pop Seeds etc.
 
+![P2](//images/pantheon/pantheon.png)
+
 [Raidplan All Phases](https://raidplan.io/plan/8YYBB9IaihmLYjmy)
 
 ## Optional Information
@@ -26,10 +28,11 @@
 
 ### Phase 1
 
-**0:10** Necro-Ritual\
-**0:25** Debuffs\
+**0:15** Necro-Ritual\
+**0:50** Debuffs\
 **1:00** Kyrian Wings\
-**1:20** Necro-Ritual\
+**1:25** Necro-Ritual\
+**1:50** Debuffs
 ...
 
 ### Phase 2
@@ -43,11 +46,9 @@
 
 ### Phase 3
 
-**0:10** Debuffs\
 **0:15** Seeds\
 **0:25** Stamepde\
 **0:50** Kyrian Wings\
 **1:30** Seeds\
-**1:45** Hand of Destruction
+**1:45** Hand of Destruction\
 **2:15** Wings+Necro-Ritual\
-
