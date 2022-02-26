@@ -1,6 +1,10 @@
 # Sepulcher of the First Ones
 
-> **HINWEIS:** Die ersten Bosse sind schon Richtung Mythic vorbereitet, sofern möglich.
+> **HINWEISE:** 
+> 1. Skolex/Dasaugne sind schon Richtung Mythic vorbereitet, sofern möglich.
+> 2. Halondrus wurde nach dem Testing noch massiv geändert. Schaut einfach das Video.
+> 3. HC werden wir vermutlich: Guardian->Dausgne->Pantheon->Livihum->Skolex->Artificer->Halondrus->Anduin vorgehen
+> 4. Heal Einteilungen kommen noch mit Viserio Spreadsheet, insb. für Bosse die keine klaren Timer haben
 
 ## Boss-Tactics
 
