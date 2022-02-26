@@ -4,8 +4,6 @@
 
 [HC Northern Sky](https://www.twitch.tv/videos/1261895394?t=01h24m12s)
 
-[Mythic Northern Sky]()
-
 ## Tactics
 
 ### Important Overlaps
