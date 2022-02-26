@@ -15,7 +15,7 @@
 - Phase 3 - 2 Minutes into Phase: Necro-Ritual + Kyrian-Wings
     -> Big Dam, DRs + Aura Mastery + Pop Seeds etc.
 
-![P2](//images/pantheon/pantheon.png)
+![P2](/images/pantheon/pantheon.png)
 
 [Raidplan All Phases](https://raidplan.io/plan/8YYBB9IaihmLYjmy)
 
