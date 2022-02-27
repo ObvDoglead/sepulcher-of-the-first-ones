@@ -10,6 +10,8 @@
 ### Good to know
 
 - Wicked Star ist dodgebar, auch wenn man target ist, sonst pacified ab HC
+- Damage auf Lich King wird nur noch 1:1 auf Anduin übertragen
+- BL wahrscheinlich zum Pull daher
 
 ### Phase 1 + 2
 
@@ -24,7 +26,6 @@
 
 ### Intermission 1 + 2
 
-- **BL and Blast Lich King(~2:40)**
 - Lich King spawnt immer im Westen
 - Mass-Grip kleine Adds into Stun Chain
 - Monstrous Soul (Abomination) Prio Target, sobald sie castet
