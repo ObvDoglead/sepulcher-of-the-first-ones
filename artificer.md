@@ -2,7 +2,7 @@
 
 ## Video
 
-Der [Ready Check Pull Guide](https://youtu.be/f3CPVFoHjQs) erklärt die Phase 3+4 (siehe auch unten Gifs) overlaps ganz gut.\
+Der [Ready Check Pull Guide](https://youtu.be/f3CPVFoHjQs) erklärt die Phase 3+4 (siehe auch unten Gifs) overlaps ganz gut.
 
 [Northern Sky Mythic](https://www.twitch.tv/videos/1261893192?t=00h58m25s)
 
