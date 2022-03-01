@@ -28,6 +28,7 @@
 - Lich King spawnt immer im Westen
 - Mass-Grip kleine Adds into Stun Chain
 - Monstrous Soul (Abomination) Prio Target, sobald sie castet
+- BL zweite Intermission
 
 ### Phase 2
 
