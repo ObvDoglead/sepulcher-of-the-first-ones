@@ -10,8 +10,7 @@
 ### Good to know
 
 - Wicked Star ist dodgebar, auch wenn man target ist, sonst pacified ab HC
-- Damage auf Lich King wird nur noch 1:1 auf Anduin übertragen
-- BL wahrscheinlich zum Pull daher
+- Intermission Willpower Buff -> 200% dmg
 
 ### Phase 1 + 2
 
