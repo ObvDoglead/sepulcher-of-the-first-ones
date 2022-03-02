@@ -24,7 +24,5 @@
 
 ## Weakaura-Packs
 
-> Coming soon
-
 [Sofo WA Pack Causese](https://wago.io/slraid3)
 [ERT Timers WA](https://wago.io/n7l5uN3YM)
