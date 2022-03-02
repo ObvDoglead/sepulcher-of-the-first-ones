@@ -8,4 +8,10 @@
 
 ## Tactics
 
-- Release abwarten für aktuelle Footage
+- 1 RDD/1Melee pro mark
+- Healer Spread
+- Group for Reclaim
+- Push Orbs early, as little as possible in Reclaim
+- Heal CDs eher Intermission
+
+![Aufstellung Main-Phases](/images/halondrus/halondrus.png)
