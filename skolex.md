@@ -4,6 +4,8 @@
 
 [Mythic Northern Sky](https://www.twitch.tv/videos/1261897895?t=01h53m26s)
 
+[Stankie Guide](https://youtu.be/8Iwd9KQGOCI)
+
 ## Tactics
 
 - 1x Boss Roation = Tank-Combo -> Swirlies -> Retch(Frontal)
