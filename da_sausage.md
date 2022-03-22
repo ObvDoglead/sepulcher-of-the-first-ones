@@ -2,29 +2,40 @@
 
 ## Video
 
-[HC Northern Sky](https://www.twitch.tv/videos/1261896827?t=02h13m52s)
-
-[Mythic Northern Sky](https://www.twitch.tv/videos/1261897895?t=00h53m24s)
+[Live Mythic Northern Sky](https://www.twitch.tv/videos/1426261882)
 
 ## Tactics
 
+Schaut am besten das Kill Video von Northern Sky und zusätzlich noch den Raidplan (Phasen oben über "1" "2" "3")
+
+Zu beachten:
+
+- Wie dodged man in P2 und P3 die Ringe
+- **DIE IM RAIDPLAN EINGEZEICHNETEN PORTALEN ZEIGEN NUR VON WO NACH WO IHR MIT NF UND VENTHRY PORTEN SOLLT**
+- **PORTALE WERDEN NICHT BENUTZT**
+- Pro Phase wenn möglich 1x Immunity nutzen
+
 [Raidplan All Phases](https://raidplan.io/plan/jXtxPTe8V-ov4uy8)
 
-### Phase 1
+## Phase 2
 
-![Phase1](/images/dausegne/dausegnep1.png)
+Boss steht auf Lila
 
-### Phase 2
+1. erste Halo kommt von Grün -> einzeln dodgen
+2. erste Halo kommt von Blau -> Doppeldodge (siehe portals)
 
-![Phase2](/images/dausegne/dausegnep2.png)
+## Phase 3
 
-### Phase 3
+Boss steht auf Kreuz
 
-![Phase3](/images/dausegne/dausegnep3.png)
+1. erste Halo kommt von Blau 
+    -> Boss in Richtung Lila ziehen 
+    -> erste nehmen + doppelt porten (Portals bei Lila)
 
-### Phase 4
+2. erste Halo kommt von Lila
+    -> Boss in Richtung Blau ziehen
+    -> erste nehmen + doppelt porten (Portals bei Blau)
 
-![Phase4](/images/dausegne/dausegnep4.png)
 
 ## Optional Information
 
@@ -37,7 +48,8 @@
 
 ### Disintegration Halo
 
-- Blaue Rune (siehe Bild) am Reservoir-> Indikator von wo das nächste Halo kommt
+- Blaue Rune (siehe Bild) am Reservoir -> Indikator von wo das nächste Halo kommt
+- Alternativ: Schwarze Projectiles fliegen vom Boss aus
 - Fast immer in Kombination mit Cone
 - Ab drei aktiven Reservoirs: Halo kommt immer ein Resevoir (90°) weiter, nie von gegenüber (180°)
 - Erste immer random
