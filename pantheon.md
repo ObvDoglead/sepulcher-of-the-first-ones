@@ -6,6 +6,11 @@
 
 ## Tactics
 
+### WAs
+
+[Night Hunter Assignments](https://wago.io/IMRdNtnYK)
+[Interrupts](https://wago.io/4xOVTnbVB)
+
 ### Important Overlaps
 
 - Phase 2: Stampede + Hand of Destruction
