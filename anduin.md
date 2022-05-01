@@ -1,8 +1,9 @@
 # Anduin
 
+[Raidplan](https://raidplan.io/plan/Pn54oLFOQrxk8v9X)
+
 ## WAs
 
-[Raidplan](https://raidplan.io/plan/Pn54oLFOQrxk8v9X)
 
 [Kingsmourne Assignments](https://wago.io/hccbCFRaz)
 
