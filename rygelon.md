@@ -1,6 +1,6 @@
 # Rygelon
 
-[Template Aufstellung](images/rygelon/rygelon.png)
+![Template Aufstellung](images/rygelon/rygelon.png)
 
 ## WAs
 
