@@ -18,9 +18,9 @@
 - [Lihuvim](lihuvim.md)
 - [Halondrus](halondrus.md)
 - [Anduin](anduin.md)
-- Lords of Dread
-- Rygelon
-- The Jailer
+- [Lords of Dread](lords.md)
+- [Rygelon](rygelon.md)
+- [The Jailer](jailer.md)
 
 ## Weakaura-Packs
 
