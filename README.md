@@ -1,13 +1,5 @@
 # Sepulcher of the First Ones
 
-> **HINWEISE:** 
-> 1. Basic Boss Ability Erklärungen gibt es zu Hauf zu finden, sucht euch einfach was raus.
-> 2. Skolex/Dasaugne sind schon Richtung Mythic vorbereitet, sofern möglich.
-> 3. Halondrus wurde nach dem Testing noch massiv geändert. Schaut einfach das Video.
-> 4. HC werden wir vermutlich: Guardian->Dausgne->Pantheon->Livihum->Skolex->Artificer->Halondrus->Anduin vorgehen
-> 5. Heal Einteilungen kommen noch mit Viserio Spreadsheet, insb. für Bosse die keine klaren Timer haben
-> 6. Bei Anmerkungen/Vorschlägen einfach an den Doglead wenden.
-
 ## Boss-Tactics
 
 - [Vigilant Guardian](guardian.md)
@@ -26,3 +18,7 @@
 
 [Sofo WA Pack Causese](https://wago.io/slraid3)
 [ERT Timers WA](https://wago.io/n7l5uN3YM)
+
+## Heal-Sheet
+
+[Viserio Sheet](https://docs.google.com/spreadsheets/d/1Px-IBCaft8g7cjO41c2TNDxCqewgk0AYkb18iHP7EXs)
