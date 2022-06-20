@@ -7,12 +7,12 @@
 ## Note
 
 ### Soaks (außen nach innen):
-Grp .1: Kuzari -> Snackbar -> Sceanureaves -> Despolace (Backup: Flashibashi)
+Grp .1: Kuzari -> Snackbar -> Sceanureaves -> Despolace (Backup: Flashibashi)\
 Grp .2: Johnnybepp ->  Yamayarimaya/Zadskiloneal/Navinja -> Snoopdoglead -> Twizzkhalifa (Backup: Baerserker)
 
 ### Tank-Soaks
-Wuthenglan Bommelsh Bookofra Kragandh Fernkauf Zhazhagrey Kiuma Vuzwillis Seraak
-Zadskiloneal Twizzkhalifa Snoopdoglead Yamayarimaya Johnnybepp Sceanureaves Navinja Despolace Atlai 
+Gruppe odd: Wuthenglan Bommelsh Bookofra Kragandh Fernkauf Zhazhagrey Kiuma Vuzwillis Seraak\
+Gruppe even: Zadskiloneal Twizzkhalifa Snoopdoglead Yamayarimaya Johnnybepp Sceanureaves Navinja Despolace Atlai 
 
 ### CCs P2 Runen + P3 Adds
 Kiuma Flashibashi Baerserker 
