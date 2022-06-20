@@ -1,6 +1,7 @@
 # Jailer
 
 [P1 + P2 Raidplan](https://raidplan.io/plan/WmOec7XrBe7HASed)
+
 [Boss-Kill Video gleiches Heal-Setup](https://www.youtube.com/watch?v=AwcrrOD72k8)
 
 ## WAs
