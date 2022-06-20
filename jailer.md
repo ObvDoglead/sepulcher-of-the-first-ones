@@ -4,10 +4,24 @@
 
 [Boss-Kill Video gleiches Heal-Setup](https://www.youtube.com/watch?v=AwcrrOD72k8)
 
+## Note
+
+### Soaks (außen nach innen):
+Grp .1: Kuzari -> Snackbar -> Sceanureaves -> Despolace (Backup: Flashibashi)
+Grp .2: Johnnybepp ->  Yamayarimaya/Zadskiloneal/Navinja -> Snoopdoglead -> Twizzkhalifa (Backup: Baerserker)
+
+### Tank-Soaks
+Wuthenglan Bommelsh Bookofra Kragandh Fernkauf Zhazhagrey Kiuma Vuzwillis Seraak
+Zadskiloneal Twizzkhalifa Snoopdoglead Yamayarimaya Johnnybepp Sceanureaves Navinja Despolace Atlai 
+
+### CCs P2 Runen + P3 Adds
+Kiuma Flashibashi Baerserker 
+
 ## WAs
 
 [WA Pack](https://wago.io/X28bMaY89)
 
+## Abfolge
 
 ### P1
 
@@ -31,7 +45,7 @@
 
 ### P2
 
-- Pro 
+- Pro Heal moven wir jeweils ein Dreick weiter
 - Niemals Torments unter Runen ablegen
 - Knockbacks immer weg von den Heal- und Torment-Swirlies
 - Positioning Phasenübergang P3 genau anschauen
