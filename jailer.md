@@ -4,6 +4,8 @@
 
 [Boss-Kill Video gleiches Heal-Setup](https://www.youtube.com/watch?v=AwcrrOD72k8)
 
+[dazugehörige WCL](https://www.warcraftlogs.com/reports/LNAn8RWQK13mJjvZ)
+
 ## Note
 
 ### Soaks (außen nach innen):
