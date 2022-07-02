@@ -70,7 +70,7 @@ Kiuma Flashibashi Baerserker
 **6:40**\
 **6:50** Instant Chain Break Atlai -> Soak Frontal\
 **7:00** Heal#1 in Azeroth + Dodge Missiles\
-**7:05** -> Bait Defile + Gate\
+**7:05** Bait Defile + Gate\
 **7:15** Adds\
 **7:20** Heal#2 auf 6 Stacks\
 **7:30** Phase 4\
