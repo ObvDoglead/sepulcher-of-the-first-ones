@@ -1,6 +1,6 @@
 # Jailer
 
-[P1 + P2 Raidplan](https://raidplan.io/plan/WmOec7XrBe7HASed)
+[All Phases Raidplan](https://raidplan.io/plan/WmOec7XrBe7HASed)
 
 [Boss-Kill Video gleiches Heal-Setup](https://www.youtube.com/watch?v=AwcrrOD72k8)
 
@@ -66,3 +66,21 @@ Kiuma Flashibashi Baerserker
 10. Torment + Runes
 
 ### P3
+
+**6:40**
+**6:50** Instant Chain Break Atlai -> Soak Frontal
+**7:00** Heal#1 in Azeroth + Dodge Missiles
+**7:05** -> Bait Defile + Gate
+**7:15** Adds
+**7:20** Heal#2 auf 6 Stacks
+**7:30** Phase 4
+
+### P4
+
+**7:40** Bombs -> Jump in
+**7:50** Soak Frontal
+**8:10** Dispell#1 -> Tanks
+**8:15** Bombs
+**8:20** Torment
+**8:30** Dispell#2 -> Tanks+Vuzeel+Lacer
+GG
