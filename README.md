@@ -1,5 +1,9 @@
 # Sepulcher of the First Ones
 
+## Sheets
+
+[Raidbestätigungen](https://docs.google.com/spreadsheets/d/1vBSHAGNR4eZRIDMN0SgxcM7tv97V9q9d8wmGRvYeISI)
+
 ## Boss-Tactics
 
 - [Vigilant Guardian](guardian.md)
