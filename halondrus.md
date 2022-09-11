@@ -1,13 +1,24 @@
 # Halondrus
 
-## Video
-> **WARNING**: Boss wurden nach dem PTR Testing noch stark verändert. Schaut am besten diesen Guide:
+## Note
 
-[Ready Check Pull](https://youtu.be/MA--dKXYxIQ)
+```
+{diamond}Scani + Kuzari
+{circle}Yama + Magicmike
+{star}Bommel + Shadownnay
 
-[Liquid First Kill](https://www.twitch.tv/videos/1412031815?t=05h25m53s)
+{moon}Wuthenglan + Zadskiel		-	p3 gegenüber
+{square}Vuzel + Hotti			-	p3 gegenüber
+{triangle}Kragan + Gromskale	-	p3 Eingang
 
-[Liquid Kill nach Nerf](https://www.twitch.tv/videos/1412031815?t=13h51m33s)
+Jay + Nachtlampe + Atlai + Sariah 		- p3 gegenüber
+Kiuma + Flashi + Fernkauf + Thrallinor 	- p3 Eingang
+```
+
+## Raidplan
+
+[Raidplan 3 Phases](https://raidplan.io/plan/ZSNna6EYDfSG3X_c)
+
 
 ## WA + Macro
 
