@@ -1,19 +1,8 @@
 # Skrillex
 
-## Video
-
-[Mythic Northern Sky](https://www.twitch.tv/videos/1261897895?t=01h53m26s)
-
-[Stankie Guide](https://youtu.be/8Iwd9KQGOCI)
-
 ## Tactics
 
-- 1x Boss Roation = Tank-Combo -> Swirlies -> Retch(Frontal)
-- Burrow (alle zusammen laufen) sollte immer nach einem Retch ausgelöst werden, sonst 1-shot
-- Wir lösen Burrow voraussichtlich nach 3/3/2/2/2... Boss-Rotationen aus
-- Formation siehe Bild, nach Burrow wird nur noch Blaues Mark gestellt
-
-![Phase1](/images/Skolex/skolex.png)
+Wir spielen 3/2/2/2... Retches vor jedem Clear
 
 [Raidplan-URL](https://raidplan.io/plan/mGIzYvLg4H0b9e-P)
 
