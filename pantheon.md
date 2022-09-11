@@ -1,8 +1,15 @@
 # Prototype Pantheon
 
-## Video
+## Note
 
-## Tactics
+```
+Kicks Renewal: Vuzwillis, Atlai, Gromskale, Thrallinor
+Kicks War: Kragan, Wuthenglan, Fernkauf, Yama
+
+Adds:
+{diamond}Zadskiel
+{circle}{star}Sirih,Scantracx
+```
 
 ### WAs
 

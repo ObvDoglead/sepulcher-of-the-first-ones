@@ -1,22 +1,5 @@
 # Lihuvim
 
-## Video
-
-[Mythic Kill](https://www.twitch.tv/videos/1262513997?t=01h30m50s)
-[Normal Kill](https://www.twitch.tv/videos/1273585898?t=00h43m33s)
-HC Footage eher nicht zu empfehlen, da Motes verbuggt waren
-
-## Tactics
-
-- Intermission, je nach Add-HP und Raid-Damage:
-    1. 2 Gruppen - je eine Seite wie im Video
-    2. Raid bleibt zusammen auf einer Seite
-
-- Add Prio (my best guess, abhängig davon wieviele adds sterben bevor sie aktiv werden):
-    1. Acquisition Automa
-    2. Defense Automa
-    3. Guardian Automa
-    4. Degeneration Automa
 
 ## Timer
 

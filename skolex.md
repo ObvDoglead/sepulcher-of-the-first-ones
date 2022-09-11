@@ -6,7 +6,14 @@ Wir spielen 3/2/2/2... Retches vor jedem Clear
 
 [Raidplan-URL](https://raidplan.io/plan/mGIzYvLg4H0b9e-P)
 
-## Optional Information
+## Note
+
+```
+Back Soaks:
+Grp 1: Hotti Kuzari Yamayarimaya
+Grp 2: Magicmikexoxo Bommelwl Sáriàh
+Grp 3: Shadonnay Sirih Flashi (nur erste Rotation)
+```
 
 ### Timer
 
