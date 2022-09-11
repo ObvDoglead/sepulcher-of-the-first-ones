@@ -8,5 +8,8 @@
 
 [Night Hunter Assignments](https://wago.io/IMRdNtnYK)
 
-[Interrupts](https://wago.io/4xOVTnbVB)
+Interrupts müssen jeweils eingestellt werden
 
+[Interrupt Prototype of Renewal](https://wago.io/roeC4hdIi)
+
+[Interrupt Prototype of War](https://wago.io/zUYpXAE23)
