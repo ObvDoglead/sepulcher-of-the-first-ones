@@ -9,4 +9,4 @@
 
 [March of the Damned](https://wago.io/zQj1QaQlS)
 
-[CC Rotation](https://wago.io/s0uDmUnMU)
+[CC Rotation](https://wago.io/U73cfKedH)
