@@ -2,9 +2,11 @@
 
 [All Phases Raidplan](https://raidplan.io/plan/WmOec7XrBe7HASed)
 
-[Boss-Kill Video gleiches Heal-Setup](https://www.youtube.com/watch?v=AwcrrOD72k8)
+[Boss-Kill Video](https://www.youtube.com/watch?v=AwcrrOD72k8)
 
-[dazugehörige WCL](https://www.warcraftlogs.com/reports/LNAn8RWQK13mJjvZ)
+[Unser First Kill Melee](https://www.twitch.tv/videos/1525773261)
+
+[Unsere WCL](https://www.warcraftlogs.com/reports/L7kYqgvfRXaN4CGn#fight=last)
 
 ## Note
 
